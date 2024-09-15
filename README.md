@@ -1,5 +1,5 @@
 # PLP-Python-week3-asnmnt
-##How it works:
+## How it works:
 The calculate_discount function checks if the discount percentage is 20% or higher.
 If so, it calculates the discounted price and returns it.
 Otherwise, it returns the original price.
